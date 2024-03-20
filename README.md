@@ -8,7 +8,7 @@ My decision to change profession was caused not only by necessity, but also by m
 Yes, I want to master the IT profession, not because it is fashionable, but because I like it and because it is modern. 
 At the moment I have a lot of free time, which allows me to learn new knowledge as much as possible and as quickly as possible. 
 I would be happy to join professional organizations as an employee and make new friends in the field.
-----------------------------------------------------------------------------------------------------------------------
+_____________________________________________________________________
 Всем добрый день и удачи в работе, меня зовут Андрей Грико.
 Я нахожусь в начале долгого пути становления IT-специалистом.
 Несмотря на то, что я сейчас только начал делать свои первые шаги, у меня есть приличный опыт в других областях, которые помогут мне в моей новой профессии (инженерное образование, лидерство, коммуникация, достижение результата и многие другие).
@@ -18,7 +18,7 @@ I would be happy to join professional organizations as an employee and make new 
 Да, я хочу освоить IT-профессию не потому, что это модно, а потому, что мне это нравится и потому что это современно.
 На данный момент у меня много свободного времени, что позволяет мне максимально и быстро усваивать новые знания.
 Я был бы рад присоединиться к профессиональным организациям в качестве сотрудника и завести новых друзей в этой области.
-____________________________________________________________________________________________________________________
+_____________________________________________________________________
 In October 2023, I decided to make a fundamental change in my professional life. 
 That's why I started studying at Skillfactory online school in the Fullstack Development on Python course. 
 At the moment, I have completed the following materials: Python basics, functional programming, OOP paradigm. 
@@ -27,7 +27,7 @@ Currently, as part of my studies, I am learning the Django framework for creatin
 Ahead of me is a large Frontend Development section, in which the following materials will be studied: Basics of CSS and HTML, JavaScript language. 
 The React framework will be mastered; separately, in practice, it is planned to develop a full-fledged web application using Django and React. 
 Additionally, the basics of DevOps will be studied - through Linux and Docker tools.
----------------------------------------------------------------------------------------------------------------------
+_______________________________________________________________________
 В октябре 2023 года я решил кардинально изменить свою профессиональную жизнь.
 Именно поэтому я начал обучение в онлайн-школе Skillfactory на курсе Fullstack Development on Python.
 На данный момент мною пройдены следующие материалы: Основы Python, функциональное программирование, парадигма ООП.
@@ -37,7 +37,7 @@ Additionally, the basics of DevOps will be studied - through Linux and Docker to
 Фреймворк React будет освоен; 
 Отдельно на практике планируется разработать полноценное веб-приложение с использованием Django и React.
 Дополнительно будут изучены основы DevOps — с помощью инструментов Linux и Docker.
-_____________________________________________________________________________________________________________________
+_______________________________________________________________________
 My contacts:/Мои контакты:
 griko.and@gmail.com
 griko_aa@mail.ru
@@ -46,4 +46,3 @@ griko.andrey@yandex.ru
 +34 647 486 557
 @AyGo_00 (telegram)
 @nema_grand (instagram)
---------------------------------------------
