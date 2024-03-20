@@ -39,10 +39,10 @@ _______________________________________________________________________
 Дополнительно будут изучены основы DevOps — с помощью инструментов Linux и Docker.
 _______________________________________________________________________
 My contacts:/Мои контакты:
-griko.and@gmail.com
-griko_aa@mail.ru
-griko.andrey@yandex.ru
-+79136481008 whatsApp
-+34 647 486 557
-@AyGo_00 (telegram)
-@nema_grand (instagram)
+- griko.and@gmail.com
+- griko_aa@mail.ru
+- griko.andrey@yandex.ru
+- +79136481008 whatsApp
+- +34 647 486 557
+- @AyGo_00 (telegram)
+- @nema_grand (instagram)
