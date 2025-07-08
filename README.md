@@ -36,9 +36,9 @@ JavaScript TypeScript ES6 HTML Python
 
 Frameworks:
 Angular Django React
-![Angular](https://img.shields.io/badge/Angular-%23DD0031?style=for-the-badge&logo=angular&logoColor=white)
-![Django](https://img.shields.io/badge/Django-%23092E20?style=for-the-badge&logo=django&logoColor=white)
-![React](https://img.shields.io/badge/React-%2320232A?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+<img src="https://img.shields.io/badge/VS%20Code-%23007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" style="border-radius:4px;height:20px;margin:2px;" />
+<img src="https://img.shields.io/badge/WebStorm-%23F34F1B?style=flat-square&logo=webstorm&logoColor=white" style="border-radius:4px;height:20px;margin:2px;" />
+<img src="https://img.shields.io/badge/PyCharm-%23000000?style=flat-square&logo=pycharm&logoColor=white" style="border-radius:4px;height:20px;margin:2px;" />
 
 
 UI/Build Tools:
