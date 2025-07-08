@@ -11,19 +11,19 @@ _____________________________________________________________________
 
 🚀 Технологии и инструменты / Stack
 
-### Languages
+Languages
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![ES6](https://img.shields.io/badge/ES6-%23444010?style=for-the-badge&logo=es6&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-%2314354C?style=for-the-badge&logo=python&logoColor=white)
 
-### Frameworks
+Frameworks
 ![Angular](https://img.shields.io/badge/Angular-%23DD0031?style=for-the-badge&logo=angular&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-%23092E20?style=for-the-badge&logo=django&logoColor=white)
 ![React](https://img.shields.io/badge/React-%2320232A?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 
-### UI / Build Tools
+UI / Build Tools
 ![Webpack](https://img.shields.io/badge/Webpack-%238DD6F9?style=for-the-badge&logo=webpack&logoColor=black)
 ![Gulp](https://img.shields.io/badge/Gulp-%23CF4647?style=for-the-badge&logo=gulp&logoColor=white)
 ![Grunt](https://img.shields.io/badge/Grunt-%23FBA919?style=for-the-badge&logo=grunt&logoColor=white)
@@ -35,12 +35,12 @@ _____________________________________________________________________
 ![Slick](https://img.shields.io/badge/Slick-%230865E6?style=for-the-badge&logo=slick&logoColor=white)
 ![DevTools](https://img.shields.io/badge/DevTools-%23323333?style=for-the-badge&logo=googlechrome&logoColor=white)
 
-### IDEs / Editors
+IDEs / Editors
 ![VS Code](https://img.shields.io/badge/VS%20Code-%23007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![WebStorm](https://img.shields.io/badge/WebStorm-%23F34F1B?style=for-the-badge&logo=webstorm&logoColor=white)
 ![PyCharm](https://img.shields.io/badge/PyCharm-%23000000?style=for-the-badge&logo=pycharm&logoColor=white)
 
-### Other Tools
+Other Tools
 ![Git](https://img.shields.io/badge/Git-%23F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-%23181717?style=for-the-badge&logo=github&logoColor=white)
 ![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-%23FFFFFF?style=for-the-badge&logo=github&logoColor=black)
