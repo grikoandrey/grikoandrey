@@ -18,35 +18,25 @@ Languages:<br>
 _____________________________________________________________________
 
 📫 Контакты / Contacts
-<div class="social-links">
-  <a href="https://www.linkedin.com/in/andrey-griko-207173313/" style="text-decoration: none;">
-    <img src="https://img.icons8.com/color/48/linkedin.png" alt="LinkedIn" width="48" height="48" />
-  </a>
-  <a href="mailto:griko.and@gmail.com" style="text-decoration: none;">
-    <img src="https://img.icons8.com/color/48/gmail-new.png" alt="Email" width="48" height="48" />
-  </a>
-  <a href="https://wa.me/79136481008" style="text-decoration: none;">
-    <img src="https://img.icons8.com/color/48/whatsapp--v1.png" alt="WhatsApp" width="48" height="48" />
-  </a>
-  <a href="https://t.me/AyGo_00" style="text-decoration: none;">
-    <img src="https://img.icons8.com/color/48/telegram-app--v1.png" alt="Telegram" width="48" height="48" />
-  </a>
-  <a href="https://www.instagram.com/nema_grand/" style="text-decoration: none;">
-    <img src="https://img.icons8.com/color/48/instagram-new--v1.png" alt="Instagram" width="48" height="48" />
-  </a>
-  <a href="https://www.facebook.com/profile.php?id=100059158399826" style="text-decoration: none;">
-    <img src="https://img.icons8.com/color/48/facebook-new.png" alt="Facebook" width="48" height="48" />
-  </a>
-</div>
 
-<style>
-  .social-links {
-    display: flex;
-    gap: 20px;
-    flex-wrap: wrap;
-    align-items: center;
-  }
-</style>
+<a href="https://www.linkedin.com/in/andrey-griko-207173313/" style="margin-right:10px;">
+  <img src="https://img.icons8.com/color/48/linkedin.png" alt="LinkedIn" width="48" height="48" />
+</a>
+<a href="mailto:griko.and@gmail.com" style="margin-right:10px;">
+  <img src="https://img.icons8.com/color/48/gmail-new.png" alt="Email" width="48" height="48" />
+</a>
+<a href="https://wa.me/79136481008" style="margin-right:10px;">
+  <img src="https://img.icons8.com/color/48/whatsapp--v1.png" alt="WhatsApp" width="48" height="48" />
+</a>
+<a href="https://t.me/AyGo_00" style="margin-right:10px;">
+  <img src="https://img.icons8.com/color/48/telegram-app--v1.png" alt="Telegram" width="48" height="48" />
+</a>
+<a href="https://www.instagram.com/nema_grand/" style="margin-right:10px;">
+  <img src="https://img.icons8.com/color/48/instagram-new--v1.png" alt="Instagram" width="48" height="48" />
+</a>
+<a href="https://www.facebook.com/profile.php?id=100059158399826">
+  <img src="https://img.icons8.com/color/48/facebook-new.png" alt="Facebook" width="48" height="48" />
+</a>
 ____________________________________________________________________
 
 📂 Проекты / Projects
