@@ -13,7 +13,7 @@ _____________________________________________________________________
 
 Languages: 
 ![html](https://github.com/user-attachments/assets/00164028-8e4a-4e5a-90c1-4faea830225c)
-<rect xmlns="http://www.w3.org/2000/svg" width="85" height="20" fill="url(#s)"/>
+
 _____________________________________________________________________
 
 📫 Контакты / Contacts
