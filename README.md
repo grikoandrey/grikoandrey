@@ -19,6 +19,11 @@ Languages:<br>
 
 Languages:
 JavaScript TypeScript ES6 HTML Python
+![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![ES6](https://img.shields.io/badge/ES6-%23444010?style=for-the-badge&logo=es6&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-%23E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![Python](https://img.shields.io/badge/Python-%2314354C?style=for-the-badge&logo=python&logoColor=white)
 
 Frameworks:
 Angular Django React
