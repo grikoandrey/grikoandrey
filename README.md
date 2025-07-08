@@ -27,12 +27,12 @@ JavaScript TypeScript ES6 HTML Python
 ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-%2314354C?style=for-the-badge&logo=python&logoColor=white)
 
-<img src="https://img.shields.io/badge/Git-%23F05032?style=flat-square&logo=git&logoColor=white"
-     style="border-radius: 4px; height: 20px;" />
-
-<img src="https://img.shields.io/badge/JavaScript-%23F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"
-     alt="JavaScript"
-     style="border-radius: 8px; height: 32px;" />
+<br>
+<img src="https://img.shields.io/badge/JavaScript-%23F7DF1E?style=flat-square&logo=javascript&logoColor=black" style="border-radius:4px;height:20px;margin:2px;" />
+<img src="https://img.shields.io/badge/TypeScript-%23007ACC?style=flat-square&logo=typescript&logoColor=white" style="border-radius:4px;height:20px;margin:2px;" />
+<img src="https://img.shields.io/badge/ES6-%23444010?style=flat-square&logo=es6&logoColor=white" style="border-radius:4px;height:20px;margin:2px;" />
+<img src="https://img.shields.io/badge/HTML5-%23E34F26?style=flat-square&logo=html5&logoColor=white" style="border-radius:4px;height:20px;margin:2px;" />
+<img src="https://img.shields.io/badge/Python-%2314354C?style=flat-square&logo=python&logoColor=white" style="border-radius:4px;height:20px;margin:2px;" />
 
 Frameworks:
 Angular Django React
