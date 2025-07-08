@@ -19,12 +19,24 @@ _____________________________________________________________________
 
 📫 Контакты / Contacts
 
-[![Email](https://img.shields.io/badge/Email-griko.and@gmail.com-red?style=flat&logo=gmail)](mailto:griko.and@gmail.com)
-[![Telegram](https://img.shields.io/badge/Telegram-Chat-blue?style=flat&logo=telegram)](https://t.me/AyGo_00)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-Chat-25D366?style=flat&logo=whatsapp)](https://wa.me/79136481008)
-[![Instagram](https://img.shields.io/badge/Instagram-@nema_grand-E4405F?style=flat&logo=instagram)](https://www.instagram.com/nema_grand/)
-[![Facebook](https://img.shields.io/badge/Facebook-Profile-1877F2?style=flat&logo=facebook)](https://www.facebook.com/profile.php?id=100059158399826)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin)](https://www.linkedin.com/in/andrey-griko-207173313/)
+<a href="mailto:griko.and@gmail.com" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.icons8.com/color/48/gmail-new.png" alt="Email" width="32" height="32" />
+</a>
+<a href="https://t.me/AyGo_00" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.icons8.com/color/48/telegram-app--v1.png" alt="Telegram" width="32" height="32" />
+</a>
+<a href="https://wa.me/79136481008" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.icons8.com/color/48/whatsapp--v1.png" alt="WhatsApp" width="32" height="32" />
+</a>
+<a href="https://www.instagram.com/nema_grand/" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.icons8.com/color/48/instagram-new--v1.png" alt="Instagram" width="32" height="32" />
+</a>
+<a href="https://www.facebook.com/profile.php?id=100059158399826" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.icons8.com/color/48/facebook-new.png" alt="Facebook" width="32" height="32" />
+</a>
+<a href="https://www.linkedin.com/in/andrey-griko-207173313/" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.icons8.com/color/48/linkedin.png" alt="LinkedIn" width="32" height="32" />
+</a>
 
 My contacts:/Мои контакты:
 - griko.and@gmail.com
@@ -39,7 +51,7 @@ My contacts:/Мои контакты:
 <a href="https://t.me/AyGo_00" rel="nofollow"><img src="https://camo.githubusercontent.com/d614d90677fbc2e34c7c62ebc68c82379d87a57c4beaf05af65fec7ba6b72e36/68747470733a2f2f63646e2d69636f6e732d706e672e666c617469636f6e2e636f6d2f3531322f323131312f323131313634362e706e67" width="32" height="32" alt="telegram" data-canonical-src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" style="max-width: 100%; height: auto; max-height: 32px;"> </a>
 ____________________________________________________________________
 
-                       📂 Проекты / Projects
+📂 Проекты / Projects
 
 FirstClass Travel
 
