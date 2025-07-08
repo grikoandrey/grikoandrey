@@ -28,36 +28,13 @@ Webpack Gulp Grant Axios SCSS SASS Bootstrap CSS jQuery Slick DevTools
 
 IDEs/Editors:
 Visual Studio Code WebStorm PyCharm
+![vscode](https://github.com/user-attachments/assets/vscode-icon-url)
+![webstorm](https://github.com/user-attachments/assets/webstorm-icon-url)
+![pycharm](https://github.com/user-attachments/assets/pycharm-icon-url)
 
 Other Tools:
 Git GitHub GitHub Pages Linux Windows MacOS NPM Postman Swagger DBeaver Vercel Figma Pixco
 
-
-#### 💻 Frontend / Fullstack
-![html](https://img.icons8.com/color/48/html-5.png)
-![css](https://img.icons8.com/color/48/css3.png)
-![js](https://img.icons8.com/color/48/javascript.png)
-![react](https://img.icons8.com/officel/48/react.png)
-![nodejs](https://img.icons8.com/color/48/nodejs.png)
-![express](https://img.icons8.com/ios/50/000000/express-js.png)
-![mongodb](https://img.icons8.com/color/48/mongodb.png)
-
-#### 🎨 Pixel Perfect & Mobile First
-![figma](https://img.icons8.com/color/48/figma--v1.png)
-![responsive](https://img.icons8.com/fluency/48/responsive.png)
-![sass](https://img.icons8.com/color/48/sass.png)
-
-#### 🛠 DevOps
-![docker](https://img.icons8.com/color/48/docker.png)
-![git](https://img.icons8.com/color/48/git.png)
-![github](https://img.icons8.com/glyph-neue/48/github.png)
-![linux](https://img.icons8.com/color/48/linux--v1.png)
-![bash](https://img.icons8.com/plasticine/48/bash.png)
-
-#### 🤝 Управление и soft-skills
-![jira](https://img.icons8.com/color/48/jira.png)
-![leadership](https://img.icons8.com/emoji/48/briefcase-emoji.png)
-![teamwork](https://img.icons8.com/color/48/conference-call.png)
 
 _____________________________________________________________________
 
