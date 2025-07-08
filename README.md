@@ -19,7 +19,7 @@ _____________________________________________________________________
 
 📫 Контакты / Contacts
 <div style="display: flex; gap: 12px; align-items: center; flex-wrap: wrap;">
-  <a href="https://www.linkedin.com/in/andrey-griko-207173313/" target="_blank" rel="noopener noreferrer" style="text-decoration: none; !important">
+  <a href="https://www.linkedin.com/in/andrey-griko-207173313/" target="_blank" rel="noopener noreferrer" style="text-decoration: none !important;">
   <img src="https://img.icons8.com/color/48/linkedin.png" alt="LinkedIn" width="40" height="40" />
 </a>
 <a href="mailto:griko.and@gmail.com" target="_blank" rel="noopener noreferrer" style="text-decoration: none;">
