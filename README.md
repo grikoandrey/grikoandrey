@@ -18,11 +18,11 @@ Languages:<br>
 _____________________________________________________________________
 
 📫 Контакты / Contacts
-<div style="text-decoration:none">
-  <a href="https://www.linkedin.com/in/andrey-griko-207173313/" target="_blank" rel="noopener noreferrer">
+<div style="display: flex; gap: 12px; align-items: center; flex-wrap: wrap;">
+  <a href="https://www.linkedin.com/in/andrey-griko-207173313/" target="_blank" rel="noopener noreferrer" style="text-decoration: none;">
   <img src="https://img.icons8.com/color/48/linkedin.png" alt="LinkedIn" width="40" height="40" />
 </a>
-<a href="mailto:griko.and@gmail.com" target="_blank" rel="noopener noreferrer" style="text-decoration:none">
+<a href="mailto:griko.and@gmail.com" target="_blank" rel="noopener noreferrer" style="text-decoration: none;">
   <img src="https://img.icons8.com/color/48/gmail-new.png" alt="Email" width="40" height="40" />
 </a>
 <a href="https://wa.me/79136481008" target="_blank" rel="noopener noreferrer">
