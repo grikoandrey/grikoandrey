@@ -28,6 +28,8 @@ My contacts:/Мои контакты:
 - @AyGo_00 (telegram)
 - @nema_grand (instagram)
 - https://www.facebook.com/profile.php?id=100059158399826
+
+- <a href="https://www.linkedin.com/in/andrey-griko-207173313/" rel="nofollow" class=""> <themed-picture data-catalyst-inline="true" data-catalyst=""><picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg"> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg"> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" style="visibility: visible; max-width: 100%;"> </picture></themed-picture> </a>
 ____________________________________________________________________
 
                        📂 Проекты / Projects
