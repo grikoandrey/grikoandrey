@@ -18,7 +18,7 @@ Languages:<br>
 _____________________________________________________________________
 
 📫 Контакты / Contacts
-<p style="display: flex; gap: 12px; flex-wrap: wrap; align-items: center;">
+<div class="social-links">
   <a href="https://www.linkedin.com/in/andrey-griko-207173313/" style="text-decoration: none;">
     <img src="https://img.icons8.com/color/48/linkedin.png" alt="LinkedIn" width="48" height="48" />
   </a>
@@ -37,7 +37,16 @@ _____________________________________________________________________
   <a href="https://www.facebook.com/profile.php?id=100059158399826" style="text-decoration: none;">
     <img src="https://img.icons8.com/color/48/facebook-new.png" alt="Facebook" width="48" height="48" />
   </a>
-</p>
+</div>
+
+<style>
+  .social-links {
+    display: flex;
+    gap: 20px;
+    flex-wrap: wrap;
+    align-items: center;
+  }
+</style>
 ____________________________________________________________________
 
 📂 Проекты / Projects
