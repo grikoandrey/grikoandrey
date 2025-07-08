@@ -19,6 +19,13 @@ _____________________________________________________________________
 
 📫 Контакты / Contacts
 
+[![Email](https://img.shields.io/badge/Email-griko.and@gmail.com-red?style=flat&logo=gmail)](mailto:griko.and@gmail.com)
+[![Telegram](https://img.shields.io/badge/Telegram-Chat-blue?style=flat&logo=telegram)](https://t.me/AyGo_00)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-Chat-25D366?style=flat&logo=whatsapp)](https://wa.me/79136481008)
+[![Instagram](https://img.shields.io/badge/Instagram-@nema_grand-E4405F?style=flat&logo=instagram)](https://www.instagram.com/nema_grand/)
+[![Facebook](https://img.shields.io/badge/Facebook-Profile-1877F2?style=flat&logo=facebook)](https://www.facebook.com/profile.php?id=100059158399826)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin)](https://www.linkedin.com/in/andrey-griko-207173313/)
+
 My contacts:/Мои контакты:
 - griko.and@gmail.com
 - griko_aa@mail.ru
