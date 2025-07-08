@@ -18,27 +18,25 @@ Languages:<br>
 _____________________________________________________________________
 
 📫 Контакты / Contacts
-
-<a href="mailto:griko.and@gmail.com" target="blank" rel="noopener noreferrer">
+<div style="text-decoration: none">
+<a href="mailto:griko.and@gmail.com" target="_blank" rel="noopener noreferrer">
   <img src="https://img.icons8.com/color/48/gmail-new.png" alt="Email" width="40" height="40" />
 </a>
-<a href="https://t.me/AyGo_00" target="blank" rel="noopener noreferrer">
+<a href="https://t.me/AyGo_00" target="_blank" rel="noopener noreferrer">
   <img src="https://img.icons8.com/color/48/telegram-app--v1.png" alt="Telegram" width="40" height="40" />
 </a>
 <a href="https://wa.me/79136481008" target="_blank" rel="noopener noreferrer">
-  <img src="https://img.icons8.com/color/48/whatsapp--v1.png" alt="WhatsApp" width="32" height="32" />
+  <img src="https://img.icons8.com/color/48/whatsapp--v1.png" alt="WhatsApp" width="40" height="40" />
 </a>
 <a href="https://www.instagram.com/nema_grand/" target="_blank" rel="noopener noreferrer">
-  <img src="https://img.icons8.com/color/48/instagram-new--v1.png" alt="Instagram" width="32" height="32" />
+  <img src="https://img.icons8.com/color/48/instagram-new--v1.png" alt="Instagram" width="40" height="40" />
 </a>
 <a href="https://www.facebook.com/profile.php?id=100059158399826" target="_blank" rel="noopener noreferrer">
-  <img src="https://img.icons8.com/color/48/facebook-new.png" alt="Facebook" width="32" height="32" />
+  <img src="https://img.icons8.com/color/48/facebook-new.png" alt="Facebook" width="40" height="40" />
 </a>
 <a href="https://www.linkedin.com/in/andrey-griko-207173313/" target="_blank" rel="noopener noreferrer">
-  <img src="https://img.icons8.com/color/48/linkedin.png" alt="LinkedIn" width="32" height="32" />
-</a>
-
-- +34 647 486 557
+  <img src="https://img.icons8.com/color/48/linkedin.png" alt="LinkedIn" width="40" height="40" />
+</a></div>
 ____________________________________________________________________
 
 📂 Проекты / Projects
