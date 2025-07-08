@@ -19,7 +19,7 @@ _____________________________________________________________________
 
 📫 Контакты / Contacts
 <div style="text-decoration: none">
-<a href="mailto:griko.and@gmail.com" target="_blank" rel="noopener noreferrer">
+<a href="mailto:griko.and@gmail.com" target="_blank" rel="noopener noreferrer" style="text-decoration: none">
   <img src="https://img.icons8.com/color/48/gmail-new.png" alt="Email" width="40" height="40" />
 </a>
 <a href="https://t.me/AyGo_00" target="_blank" rel="noopener noreferrer">
