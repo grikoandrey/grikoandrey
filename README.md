@@ -15,6 +15,8 @@ Languages:<br>
 ![html](https://github.com/user-attachments/assets/00164028-8e4a-4e5a-90c1-4faea830225c)
 ![js](https://github.com/user-attachments/assets/942b79fe-3f38-47fe-9301-6bf4003e0662)
 ![ts](https://github.com/user-attachments/assets/bc962a47-81fe-4724-bda7-a88c4d90b018)
+![es6](https://github.com/user-attachments/assets/1df9b1c1-a655-4537-aa20-d5a84c3703db)
+
 _____________________________________________________________________
 
 📫 Контакты / Contacts
