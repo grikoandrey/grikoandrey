@@ -11,47 +11,49 @@ _____________________________________________________________________
 
 🚀 Технологии и инструменты / Stack
 
-Languages:<br> 
-![html](https://github.com/user-attachments/assets/00164028-8e4a-4e5a-90c1-4faea830225c)
-![js](https://github.com/user-attachments/assets/942b79fe-3f38-47fe-9301-6bf4003e0662)
-![ts](https://github.com/user-attachments/assets/bc962a47-81fe-4724-bda7-a88c4d90b018)
-![es6](https://github.com/user-attachments/assets/1df9b1c1-a655-4537-aa20-d5a84c3703db)
-
-Languages:
-JavaScript TypeScript ES6 HTML Python
-![JavaScript](<img src="https://img.shields.io/badge/JavaScript-%23F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"
-     alt="JavaScript"
-     style="border-radius: 8px; height: 32px;" />)
+### Languages
+![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![ES6](https://img.shields.io/badge/ES6-%23444010?style=for-the-badge&logo=es6&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-%2314354C?style=for-the-badge&logo=python&logoColor=white)
 
-<br>
-<img src="https://img.shields.io/badge/JavaScript-%23F7DF1E?style=flat-square&logo=javascript&logoColor=black" style="border-radius:4px;height:20px;margin:2px;" />
-<img src="https://img.shields.io/badge/TypeScript-%23007ACC?style=flat-square&logo=typescript&logoColor=white" style="border-radius:4px;height:20px;margin:2px;" />
-<img src="https://img.shields.io/badge/ES6-%23444010?style=flat-square&logo=es6&logoColor=white" style="border-radius:4px;height:20px;margin:2px;" />
-<img src="https://img.shields.io/badge/HTML5-%23E34F26?style=flat-square&logo=html5&logoColor=white" style="border-radius:4px;height:20px;margin:2px;" />
-<img src="https://img.shields.io/badge/Python-%2314354C?style=flat-square&logo=python&logoColor=white" style="border-radius:4px;height:20px;margin:2px;" />
+### Frameworks
+![Angular](https://img.shields.io/badge/Angular-%23DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![Django](https://img.shields.io/badge/Django-%23092E20?style=for-the-badge&logo=django&logoColor=white)
+![React](https://img.shields.io/badge/React-%2320232A?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 
-Frameworks:
-Angular Django React
-<img src="https://img.shields.io/badge/VS%20Code-%23007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" style="border-radius:4px;height:20px;margin:2px;" />
-<img src="https://img.shields.io/badge/WebStorm-%23F34F1B?style=flat-square&logo=webstorm&logoColor=white" style="border-radius:4px;height:20px;margin:2px;" />
-<img src="https://img.shields.io/badge/PyCharm-%23000000?style=flat-square&logo=pycharm&logoColor=white" style="border-radius:4px;height:20px;margin:2px;" />
+### UI / Build Tools
+![Webpack](https://img.shields.io/badge/Webpack-%238DD6F9?style=for-the-badge&logo=webpack&logoColor=black)
+![Gulp](https://img.shields.io/badge/Gulp-%23CF4647?style=for-the-badge&logo=gulp&logoColor=white)
+![Grunt](https://img.shields.io/badge/Grunt-%23FBA919?style=for-the-badge&logo=grunt&logoColor=white)
+![Axios](https://img.shields.io/badge/Axios-%23EA601B?style=for-the-badge&logo=axios&logoColor=white)
+![SCSS](https://img.shields.io/badge/SCSS-%23CC6699?style=for-the-badge&logo=sass&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-%23563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-%231572B6?style=for-the-badge&logo=css3&logoColor=white)
+![jQuery](https://img.shields.io/badge/jQuery-%230769AD?style=for-the-badge&logo=jquery&logoColor=white)
+![Slick](https://img.shields.io/badge/Slick-%230865E6?style=for-the-badge&logo=slick&logoColor=white)
+![DevTools](https://img.shields.io/badge/DevTools-%23323333?style=for-the-badge&logo=googlechrome&logoColor=white)
 
+### IDEs / Editors
+![VS Code](https://img.shields.io/badge/VS%20Code-%23007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![WebStorm](https://img.shields.io/badge/WebStorm-%23F34F1B?style=for-the-badge&logo=webstorm&logoColor=white)
+![PyCharm](https://img.shields.io/badge/PyCharm-%23000000?style=for-the-badge&logo=pycharm&logoColor=white)
 
-UI/Build Tools:
-Webpack Gulp Grant Axios SCSS SASS Bootstrap CSS jQuery Slick DevTools
-
-IDEs/Editors:
-Visual Studio Code WebStorm PyCharm
-![vscode](https://github.com/user-attachments/assets/vscode-icon-url)
-![webstorm](https://github.com/user-attachments/assets/webstorm-icon-url)
-![pycharm](https://github.com/user-attachments/assets/pycharm-icon-url)
-
-Other Tools:
-Git GitHub GitHub Pages Linux Windows MacOS NPM Postman Swagger DBeaver Vercel Figma Pixco
+### Other Tools
+![Git](https://img.shields.io/badge/Git-%23F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-%23181717?style=for-the-badge&logo=github&logoColor=white)
+![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-%23FFFFFF?style=for-the-badge&logo=github&logoColor=black)
+![Linux](https://img.shields.io/badge/Linux-%23FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Windows](https://img.shields.io/badge/Windows-%230078D6?style=for-the-badge&logo=windows&logoColor=white)
+![macOS](https://img.shields.io/badge/macOS-%23000000?style=for-the-badge&logo=apple&logoColor=white)
+![npm](https://img.shields.io/badge/npm-%23CB3837?style=for-the-badge&logo=npm&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-%23FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Swagger](https://img.shields.io/badge/Swagger-%23FE7A16?style=for-the-badge&logo=swagger&logoColor=white)
+![DBeaver](https://img.shields.io/badge/DBeaver-%23191519?style=for-the-badge&logo=dbeaver&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-%23000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-%23F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Pixso](https://img.shields.io/badge/Pixso-%23946CFF?style=for-the-badge&logo=pixso&logoColor=white)
 
 
 _____________________________________________________________________
