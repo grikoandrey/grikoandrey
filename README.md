@@ -13,6 +13,7 @@ _____________________________________________________________________
 
 Languages:<br> 
 ![html](https://github.com/user-attachments/assets/00164028-8e4a-4e5a-90c1-4faea830225c)
+![js](https://github.com/user-attachments/assets/942b79fe-3f38-47fe-9301-6bf4003e0662)
 
 _____________________________________________________________________
 
