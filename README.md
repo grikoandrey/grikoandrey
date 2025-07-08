@@ -17,6 +17,21 @@ Languages:<br>
 ![ts](https://github.com/user-attachments/assets/bc962a47-81fe-4724-bda7-a88c4d90b018)
 ![es6](https://github.com/user-attachments/assets/1df9b1c1-a655-4537-aa20-d5a84c3703db)
 
+Languages:
+JavaScript TypeScript ES6 HTML Python
+
+Frameworks:
+Angular Django React Vue.js
+
+UI/Build Tools:
+Create React App Vite Webpack Redux Toolkit Axios SCSS SASS Bootstrap CSS jQuery
+
+IDEs/Editors:
+Visual Studio Code WebStorm PyCharm
+
+Other Tools:
+Git GitHub Microsoft GitHub Pages Linux Windows MacOS Postman Swagger DBeaver Vercel Figma Pixco
+
 _____________________________________________________________________
 
 📫 Контакты / Contacts
