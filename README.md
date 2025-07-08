@@ -22,7 +22,7 @@ _____________________________________________________________________
 <a href="https://www.linkedin.com/in/andrey-griko-207173313/" style="margin-right:10;">
   <img src="https://img.icons8.com/color/48/linkedin.png" alt="LinkedIn" width="48" height="48" />
 </a>
-<a href="mailto:griko.and@gmail.com" style="margin-right:10;">
+<a href="mailto:griko.and@gmail.com" style="text-decoration: none; margin-right: 30px;">
   <img src="https://img.icons8.com/color/48/gmail-new.png" alt="Email" width="48" height="48" />
 </a>
 <a href="https://wa.me/79136481008" style="margin-right:10;">
