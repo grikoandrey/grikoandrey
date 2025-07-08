@@ -18,7 +18,7 @@ Languages:<br>
 _____________________________________________________________________
 
 📫 Контакты / Contacts
-<div style="display: flex; gap: 12px; flex-wrap: wrap; align-items: center;">
+<div className="contacts" style="display: flex; gap: 12px; flex-wrap: wrap; align-items: center;">
   <a href="https://www.linkedin.com/in/andrey-griko-207173313/" style="text-decoration: none;">
     <img src="https://img.icons8.com/color/48/linkedin.png" alt="LinkedIn" width="48" height="48" />
   </a>
