@@ -19,17 +19,7 @@ _____________________________________________________________________
 
 📫 Контакты / Contacts
 
-[![LinkedIn](https://img.icons8.com/color/48/linkedin.png)](https://www.linkedin.com/in/andrey-griko-207173313/)  
-&nbsp;&nbsp;&nbsp;
-[![Gmail](https://img.icons8.com/color/48/gmail-new.png)](mailto:griko.and@gmail.com)  
-&nbsp;&nbsp;&nbsp;
-[![WhatsApp](https://img.icons8.com/color/48/whatsapp--v1.png)](https://wa.me/79136481008)  
-&nbsp;&nbsp;&nbsp;
-[![Telegram](https://img.icons8.com/color/48/telegram-app--v1.png)](https://t.me/AyGo_00)  
-&nbsp;&nbsp;&nbsp;
-[![Instagram](https://img.icons8.com/color/48/instagram-new--v1.png)](https://www.instagram.com/nema_grand/)  
-&nbsp;&nbsp;&nbsp;
-[![Facebook](https://img.icons8.com/color/48/facebook-new.png)](https://www.facebook.com/profile.php?id=100059158399826)
+[![LinkedIn](https://img.icons8.com/color/48/linkedin.png)](https://www.linkedin.com/in/andrey-griko-207173313/)&nbsp;&nbsp;&nbsp;[![Gmail](https://img.icons8.com/color/48/gmail-new.png)](mailto:griko.and@gmail.com)&nbsp;&nbsp;&nbsp;[![WhatsApp](https://img.icons8.com/color/48/whatsapp--v1.png)](https://wa.me/79136481008)&nbsp;&nbsp;&nbsp;[![Telegram](https://img.icons8.com/color/48/telegram-app--v1.png)](https://t.me/AyGo_00)&nbsp;&nbsp;&nbsp;[![Instagram](https://img.icons8.com/color/48/instagram-new--v1.png)](https://www.instagram.com/nema_grand/)&nbsp;&nbsp;&nbsp;[![Facebook](https://img.icons8.com/color/48/facebook-new.png)](https://www.facebook.com/profile.php?id=100059158399826)
 
 ____________________________________________________________________
 
