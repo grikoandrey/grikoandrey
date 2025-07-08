@@ -22,7 +22,7 @@ _____________________________________________________________________
 <a href="mailto:griko.and@gmail.com" target="_blank" rel="noopener noreferrer" style="text-decoration: none">
   <img src="https://img.icons8.com/color/48/gmail-new.png" alt="Email" width="40" height="40" />
 </a>
-<a href="https://t.me/AyGo_00" target="_blank" rel="noopener noreferrer">
+<a href="https://t.me/AyGo_00" target="_blank" rel="noopener noreferrer" style="text-decoration: none">
   <img src="https://img.icons8.com/color/48/telegram-app--v1.png" alt="Telegram" width="40" height="40" />
 </a>
 <a href="https://wa.me/79136481008" target="_blank" rel="noopener noreferrer">
