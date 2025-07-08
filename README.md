@@ -25,9 +25,9 @@ My contacts:/Мои контакты:
 - griko.andrey@yandex.ru
 - +79136481008 whatsApp
 - +34 647 486 557
-- @AyGo_00 (telegram)
 - @nema_grand (instagram)
 - https://www.facebook.com/profile.php?id=100059158399826
+  
 <a href="https://www.linkedin.com/in/andrey-griko-207173313/" rel="nofollow" class=""> <themed-picture data-catalyst-inline="true" data-catalyst=""><picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg"> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg"> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" style="visibility: visible; max-width: 100%;"> </picture></themed-picture> </a>
 <a href="https://t.me/AyGo_00" rel="nofollow"><img src="https://camo.githubusercontent.com/d614d90677fbc2e34c7c62ebc68c82379d87a57c4beaf05af65fec7ba6b72e36/68747470733a2f2f63646e2d69636f6e732d706e672e666c617469636f6e2e636f6d2f3531322f323131312f323131313634362e706e67" width="32" height="32" alt="telegram" data-canonical-src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" style="max-width: 100%; height: auto; max-height: 32px;"> </a>
 ____________________________________________________________________
