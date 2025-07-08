@@ -22,6 +22,10 @@ JavaScript TypeScript ES6 HTML Python
 
 Frameworks:
 Angular Django React
+![Angular](https://img.shields.io/badge/Angular-%23DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![Django](https://img.shields.io/badge/Django-%23092E20?style=for-the-badge&logo=django&logoColor=white)
+![React](https://img.shields.io/badge/React-%2320232A?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+
 
 UI/Build Tools:
 Webpack Gulp Grant Axios SCSS SASS Bootstrap CSS jQuery Slick DevTools
