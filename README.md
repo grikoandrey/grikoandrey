@@ -71,7 +71,7 @@ API: https://andreygriko.pythonanywhere.com/
 https://ast13new.vercel.app/
 презентация- https://rutube.ru/video/a16d9733f146d605f5e9562af414601e/
 
-Zozhnik (победный проект в рамках "Хакатона" в роли Teamleader, Fullstack, Frontend, многостраничный сайт для продвижения правильного метода питания, организация и сбор команды, взаимодействие с Заказчиком, презентация, 
+Zozhnik (победный проект в рамках "Хакатона" в роли Teamleader, Fullstack, Frontend, многостраничный сайт для продвижения правильного метода питания, организация и сбор команды, взаимодействие с Заказчиком, презентация)<br>
 https://zozhnik.vercel.app/
 API: https://grikoandrey.pythonanywhere.com/
 презентация - https://rutube.ru/video/4ede3a7a3ab5db8459f4677b8b7898a9/?r=wd
