@@ -80,5 +80,5 @@ FirstClass Travel (в рамках "Хакатона" в роли Teamleader, Fu
 https://firstclassteam3.vercel.app/
 
 Barber Club (учебный проект в онлайн школе ITlogia, лендинг для барбер шопа,азработка лендинга с 0)<br>
-- https://barber-i-tlogia.vercel.app/
+https://barber-i-tlogia.vercel.app/
 _______________________________________________________________________
